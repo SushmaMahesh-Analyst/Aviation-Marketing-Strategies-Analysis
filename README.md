@@ -16,7 +16,7 @@ The study utilized a combination of quantitative and qualitative research method
 Google Forms, Email Surveys, WhatsApp 
 
 ## Tools & Technologies
-Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy), Jupyter Notebook, Anaconda, Microsoft Excel, Google Forms.
+Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy), Jupyter Notebook, Anaconda, Microsoft Excel, Google Forms, Power BI.
 
 ## Analysis Techniques
 Statistical analysis and thematic analysis for interviews.

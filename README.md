@@ -33,25 +33,27 @@ Airlines should prioritize AI-driven personalization, real-time customer communi
 
 ## PROJECT STRUCTURE
 
+<pre>
 ├── Data/
 │   ├── Survey Data
 │   └── Interview Data
-│
+
 ├── Notebooks/
 │   ├── Data Cleaning
 │   ├── Exploratory Analysis
 │   ├── Statistical Analysis
 │   └── Visualizations
-│
+
 ├── Visualizations/
 │   ├── Charts
 │   ├── Dashboards
 │   └── Findings
-│
+
 ├── Report/
 │   └── Research_Report.pdf
-│
+
 └── README.md
+</pre>
 
 ## License
 This project is published for academic, educational, and research purposes.
